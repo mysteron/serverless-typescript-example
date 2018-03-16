@@ -57,3 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+# generated js files
+/**/*.js
+
+# serverless generated files
+.serverless
